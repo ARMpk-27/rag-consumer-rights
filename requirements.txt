@@ -1,0 +1,9 @@
+# ติดตั้ง PyTorch แบบ CPU (เล็กกว่าแบบ GPU มาก เหมาะกับ Streamlit Community Cloud)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit
+sentence-transformers
+faiss-cpu
+groq
+pythainlp
+numpy
